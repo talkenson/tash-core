@@ -13,7 +13,7 @@ export default defineConfig({
     },
     outDir: './lib',
     rollupOptions: {
-      external: [],
+      external: ['nanoid'],
     },
   },
   plugins: [
