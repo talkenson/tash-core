@@ -1,9 +1,3 @@
-export enum MessageStatus {
-  Pending = 'pending',
-  Fulfilled = 'fulfilled',
-  Rejected = 'rejected',
-}
-
 export enum MessageType {
   Register = 'register',
   Unregister = 'unregister',

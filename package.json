@@ -1,6 +1,6 @@
 {
   "name": "tash-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tash [TabShare] - simply create data requests between your site tabs",
   "main": "./lib/index.cjs.js",
   "module": "./lib/index.es.js",
